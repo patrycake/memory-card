@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.5bbb9360.css",
+    "main.js": "/memory-card/static/js/main.a65391dc.js",
+    "static/media/tombo.jpg": "/memory-card/static/media/tombo.65292ddeca49c10b310b.jpg",
+    "static/media/yubaba.jpg": "/memory-card/static/media/yubaba.30591320d48b89cf2f59.jpg",
+    "static/media/mei.jpg": "/memory-card/static/media/mei.23b31232b1129cb972c7.jpg",
+    "static/media/totoro.jpg": "/memory-card/static/media/totoro.d323efc5fc79a6b97aac.jpg",
+    "static/media/satsuki.jpg": "/memory-card/static/media/satsuki.5b7067d1fdabb4269b80.jpg",
+    "static/media/dola.jpg": "/memory-card/static/media/dola.ad80d82b677519ef34e9.jpg",
+    "static/media/noface.jpg": "/memory-card/static/media/noface.e112431bd6d845fd69c4.jpg",
+    "static/media/soot.jpg": "/memory-card/static/media/soot.59d59ed153574caf2555.jpg",
+    "static/media/pazu.jpg": "/memory-card/static/media/pazu.b9160c89789d2b964f0f.jpg",
+    "static/media/bigbaby.jpg": "/memory-card/static/media/bigbaby.819d424f470c9304177e.jpg",
+    "static/media/chihiro.jpg": "/memory-card/static/media/chihiro.8dd9a490a7cd602a5de5.jpg",
+    "static/media/osono.jpg": "/memory-card/static/media/osono.8ad301247a5207d900cc.jpg",
+    "static/media/uncle.jpg": "/memory-card/static/media/uncle.8bc92b87e345fa48e680.jpg",
+    "static/media/boilerman.jpg": "/memory-card/static/media/boilerman.101549aff9be787416cb.jpg",
+    "static/media/sheeta.jpg": "/memory-card/static/media/sheeta.b42f10e94d86defad088.jpg",
+    "static/media/kikicat.jpg": "/memory-card/static/media/kikicat.0ef2457315ec4b9bae95.jpg",
+    "static/media/haku.jpg": "/memory-card/static/media/haku.69fa56b379f392304b0b.jpg",
+    "static/media/kiki.jpg": "/memory-card/static/media/kiki.1deb71d4a88ea1f001c4.jpg",
+    "static/media/circles.svg": "/memory-card/static/media/circles.d6dd3a6b70f01654d12f.svg",
+    "index.html": "/memory-card/index.html",
+    "main.5bbb9360.css.map": "/memory-card/static/css/main.5bbb9360.css.map",
+    "main.a65391dc.js.map": "/memory-card/static/js/main.a65391dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bbb9360.css",
+    "static/js/main.a65391dc.js"
+  ]
+}
